@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    font-family: monospace;
+    color: #fff;
+}
+
+#clock {
+    margin: 200px auto 0;
+    font-size: 150px;
+}
+
+#color {
+    font-size: 25px;
+}
